@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC6330C-72D3-4608-B89B-FDC272546E71}|Experiment_04\\Experiment_04.csproj|c:\\users\\prince_yadav\\source\\repos_.net\\.net-practical\\practical_4\\experiment_04\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC6330C-72D3-4608-B89B-FDC272546E71}|Experiment_04\\Experiment_04.csproj|solutionrelative:experiment_04\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC6330C-72D3-4608-B89B-FDC272546E71}|Experiment_04\\Experiment_04.csproj|C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\experiment_04\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CC6330C-72D3-4608-B89B-FDC272546E71}|Experiment_04\\Experiment_04.csproj|solutionrelative:experiment_04\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\Experiment_04\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "Experiment_04\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\Experiment_04\\Registration.aspx.cs",
+              "RelativeToolTip": "Experiment_04\\Registration.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:20:14.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\Experiment_04\\Registration.aspx",
+              "RelativeDocumentMoniker": "Experiment_04\\Registration.aspx",
+              "ToolTip": "C:\\Users\\prince_yadav\\source\\repos_.net\\.Net-practical\\practical_4\\Experiment_04\\Registration.aspx",
+              "RelativeToolTip": "Experiment_04\\Registration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-18T06:18:43.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
