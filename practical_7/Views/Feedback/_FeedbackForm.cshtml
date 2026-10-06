@@ -1,0 +1,47 @@
+﻿@model practical_7.Models.Feedback
+
+<div>
+
+    <div>
+        @Html.LabelFor(m => m.Name)
+        <br />
+        @Html.TextBoxFor(m => m.Name)
+        <br />
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+
+    <br />
+
+    <div>
+        @Html.LabelFor(m => m.Email)
+        <br />
+        @Html.TextBoxFor(m => m.Email)
+        <br />
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+
+    <br />
+
+    <div>
+        @Html.LabelFor(m => m.Rating)
+        <br />
+        @Html.TextBoxFor(m => m.Rating)
+        <br />
+        @Html.ValidationMessageFor(m => m.Rating)
+    </div>
+
+    <br />
+
+    <div>
+        @Html.LabelFor(m => m.Message)
+        <br />
+        @Html.TextAreaFor(m => m.Message)
+        <br />
+        @Html.ValidationMessageFor(m => m.Message)
+    </div>
+
+    <br />
+
+    <input type="submit" value="Submit Feedback" />
+
+</div>

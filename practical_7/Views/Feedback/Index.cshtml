@@ -1,0 +1,19 @@
+﻿@model practical_7.Models.Feedback
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Feedback";
+}
+
+<h2>Feedback Management</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.Partial("_FeedbackForm", Model)
+}
+
+@if (ViewBag.Message != null)
+{
+    <h3>@ViewBag.Message</h3>
+}
